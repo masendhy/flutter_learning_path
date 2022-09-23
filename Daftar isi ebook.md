@@ -4,7 +4,7 @@
 2. Berkenalan dengan FLutter
 3. Dart Basic
    - Berkenalan dengan Dart
-   - Menginstall Dart dengan
+   - Menginstall Dart dengan Flutter
    - Membuat Project Pertama dengan Dart
    - Tipe Data
    - Operator
