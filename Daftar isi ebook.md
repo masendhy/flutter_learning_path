@@ -17,9 +17,6 @@
    - Method
    - Contructor
    - Inheritance
-   - Exception
-   - Error
-   - Metadata
 5. Flutter Fundamentals
    - Text Widget
    - Row dan Column Widget
